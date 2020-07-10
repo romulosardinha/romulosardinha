@@ -1,16 +1,17 @@
-### Hi there 👋
+# :man_technologist: Rômulo Sardinha
 
-<!--
-**romulosardinha/romulosardinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/romulosardinha)](https://github.com/romulosardinha)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rmlsardinha/)](https://www.linkedin.com/in/rmlsardinha/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lgdbittencourt)](https://twitter.com/romulo_sardinha)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5521988327454&text=Olá!)](https://api.whatsapp.com/send?phone=5521988327454&text=Olá!)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:falecom.romulo.sardinha@gmail.com)](mailto:falecom.romulo.sardinha@gmail.com)
 
-Here are some ideas to get you started:
+## Seja bem-vindo! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:octocat: Sou Rômulo Sardinha dos Santos, mas pode me chamar de Ross, empreendedor serial, eterno estudante de tecnologias que me motivam, nerd, viciado em livros, tentando ser marombeiro.
+
+- Software Engineer.Empresário serial de produtos digitais. Adorando codar diariamente.
+- Skills: React.js, React Native, Node.js, Firebase, TypeScript, Adobe XD.
+- Estudando Python e Cosmologia
+
+---
