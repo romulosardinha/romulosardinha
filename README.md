@@ -10,8 +10,8 @@
 
 :octocat: Sou Rômulo Sardinha dos Santos, mas pode me chamar de Ross, empreendedor serial, eterno estudante de tecnologias que me motivam, nerd, viciado em livros, tentando ser marombeiro.
 
-- Software Engineer.Empresário serial de produtos digitais. Adorando codar diariamente.
-- Skills: React.js, React Native, Node.js, Firebase, TypeScript, Adobe XD.
-- Estudando Python e Cosmologia
+- Software Engineer. Empresário serial de produtos digitais. Adorando codar diariamente.
+- Skills: React.js, React Native, Node.js, Firebase, TypeScript, Adobe XD, Figma.
+- Estudando Python e Filosofia
 
 ---
