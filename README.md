@@ -1,6 +1,5 @@
 # :man_technologist: Rômulo Sardinha
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/romulosardinha)](https://github.com/romulosardinha)
 [![Medium Badge](https://img.shields.io/badge/-Medium-lightgrey?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@romulosardinha)](https://medium.com/@romulosardinha)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rmlsardinha/)](https://www.linkedin.com/in/rmlsardinha/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lgdbittencourt)](https://twitter.com/romulo_sardinha)
