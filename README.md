@@ -15,3 +15,5 @@
 - Estudando Python e Filosofia
 
 ---
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=romulosardinha&hide=contribs,prs&theme=tokyonight)
