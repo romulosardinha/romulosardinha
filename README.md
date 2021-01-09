@@ -6,13 +6,21 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5521988327454&text=Olá!)](https://api.whatsapp.com/send?phone=5521988327454&text=Olá!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:falecom.romulo.sardinha@gmail.com)](mailto:falecom.romulo.sardinha@gmail.com)
 
+<div>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Javascript-736400_960_720.png/600px-Javascript-736400_960_720.png" height="80" alt='javascript'>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" height="80" alt='react'>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Google-cloud-platform.svg/512px-Google-cloud-platform.svg.png" height="80" alt='gcp'>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Touchicon-180.png" height="80" alt='firebase'>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png" height="80" alt='python'>
+<div>
+
 ## Seja bem-vindo! 👋
 
 :octocat: Sou Rômulo Sardinha dos Santos, mas pode me chamar de Ross, empreendedor serial, mais de 10 anos de experiência em criação de negócios digitais, eterno estudante de tecnologias que me motivam, nerd, viciado em livros, tentando ser marombeiro.
 
 - Software Engineer. Empresário serial de produtos digitais. Adorando codar diariamente.
-- Skills: React.js, React Native, Node.js, Firebase, TypeScript, Adobe XD, Figma.
-- Estudando Python e Filosofia
+- Skills: React.js, React Native, Node.js, Firebase, TypeScript, Python, Adobe XD, Figma.
+- Estudando Filosofia nas horas vagas
 
 ---
 
