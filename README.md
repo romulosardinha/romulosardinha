@@ -24,5 +24,5 @@
 
 ---
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=romulosardinha&count_private=true&show_icons=true&hide=issues&line_height=24)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romulosardinha&hide=java,objective-c,starlark&layout=compact&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=romulosardinha&count_private=true&show_icons=true&hide=contribs,prs&line_height=24)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romulosardinha&hide=java,starlark&layout=compact&show_icons=true)
