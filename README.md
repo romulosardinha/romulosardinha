@@ -1,17 +1,19 @@
 # :man_technologist: Rômulo Sardinha
 
-[![Medium Badge](https://img.shields.io/badge/-Medium-lightgrey?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@romulosardinha)](https://medium.com/@romulosardinha)
+<!-- [![Medium Badge](https://img.shields.io/badge/-Medium-lightgrey?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@romulosardinha)](https://medium.com/@romulosardinha) -->
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/romuloSardinha/)](https://www.linkedin.com/in/romuloSardinha/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lgdbittencourt)](https://twitter.com/romulo_sardinha)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5521988327454&text=Olá!)](https://api.whatsapp.com/send?phone=5521988327454&text=Olá!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:falecom.romulo.sardinha@gmail.com)](mailto:falecom.romulo.sardinha@gmail.com)
 
 <div>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Javascript-736400_960_720.png/600px-Javascript-736400_960_720.png" height="80" alt='javascript'>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" height="80" alt='react'>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Google-cloud-platform.svg/512px-Google-cloud-platform.svg.png" height="80" alt='gcp'>
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Touchicon-180.png" height="80" alt='firebase'>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png" height="80" alt='python'>
+  
+<img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <div>
 
 ## Seja bem-vindo! 👋
@@ -23,6 +25,9 @@
 - Estudando Filosofia nas horas vagas
 
 ---
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=romulosardinha&count_private=true&show_icons=true&hide=contribs,prs&line_height=24)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romulosardinha&hide=objective-c,ruby,java,starlark&layout=compact&show_icons=true)
+  
+  <div align="center">
+  <a href="https://github.com/romulosardinha">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=romulosardinha&layout=compact&show_icons=true&theme=dracula&count_private=true&hide=contribs,prs"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romulosardinha&layout=compact&langs_count=7&theme=dracula&hide=objective-c,ruby,java,starlark&layout=compact"/>
+</div>
