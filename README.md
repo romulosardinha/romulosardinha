@@ -28,6 +28,6 @@
   
 <div align="center">
   <a href="https://github.com/romulosardinha">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=romulosardinha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=contribs,prs"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romulosardinha&layout=compact&langs_count=7&theme=dracula&hide=ruby,java,objective-c,starlark"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=romulosardinha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=contribs,prs"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romulosardinha&layout=compact&langs_count=7&theme=dracula&hide=ruby,java,objective-c,starlark"/>
 </div>
